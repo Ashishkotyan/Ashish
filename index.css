@@ -268,7 +268,10 @@ p {
     color: #8c8c8c; }
 
   /* try */
- 
+ .blog-entry::after{
+   height: 200;
+   width: 300;
+ }
 
 
   
