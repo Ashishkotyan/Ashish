@@ -9,7 +9,7 @@ particlesJS.load('particles-js', 'particles.json', function() {
 });
 */
 
-/* Otherwise just put the config  (json): */
+/* Otherwise just put the  (json): */
 
 particlesJS('particles-js',
   
