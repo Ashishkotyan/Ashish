@@ -9,7 +9,7 @@ particlesJS.load('particles-js', 'particles.json', function() {
 });
 */
 
-/* Otherwise just put the  (: */
+/* Otherwise just put the: */
 
 particlesJS('particles-js',
   
