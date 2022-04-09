@@ -270,6 +270,7 @@ p {
 .ct{
   font-family: 'Courier New', Courier, monospace;
   text-transform: capitalize;
+  font-size: medium;
 }
    /* line- */
  /* } */
