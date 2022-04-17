@@ -268,9 +268,10 @@ p {
     color: #8c8c8c;
   }
 .ct{
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Courier New', Courier, ;
   text-transform: capitalize;
   font-size: medium;
+
 }
    /* line- */
  /* } */
