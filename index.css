@@ -271,7 +271,7 @@ p {
   font-family: 'Courier New', Courier, ;
 text-size-adjust: calc();
 text-indent: 0;
-  text-transform: capitalize;
+  text-transform:;
   font-size: medium;
 
 }
